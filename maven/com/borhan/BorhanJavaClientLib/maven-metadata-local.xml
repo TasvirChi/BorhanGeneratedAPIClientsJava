@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.borhan</groupId>
+  <artifactId>BorhanJavaClientLib</artifactId>
+  <version>1.0</version>
+  <versioning>
+    <versions>
+      <version>1.0</version>
+    </versions>
+    <lastUpdated>20150304153810</lastUpdated>
+  </versioning>
+</metadata>
