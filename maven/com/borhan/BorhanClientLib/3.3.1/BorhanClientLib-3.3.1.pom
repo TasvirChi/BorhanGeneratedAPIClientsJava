@@ -24,7 +24,7 @@
     are used to interect with the API.  The current schema can be found at
     http://www.borhan.com/api_v3/api_schema.php
   </description>
-	<url>http://github.com/borhan/BorhanGeneratedAPIClientsJava</url>
+	<url>http://github.com/bordar/BorhanGeneratedAPIClientsJava</url>
 
 	<!-- Define the license under which this software can be used. -->
 	<licenses>
@@ -47,9 +47,9 @@
 	</developers>
 
 	<scm>
-		<connection>scm:git:git@github.com:borhan/BorhanGeneratedAPIClientsJava.git</connection>
-		<developerConnection>scm:git:git@github.com:borhan/BorhanGeneratedAPIClientsJava.git</developerConnection>
-		<url>scm:git:git@github.com:borhan/BorhanGeneratedAPIClientsJava.git</url>
+		<connection>scm:git:git@github.com:bordar/BorhanGeneratedAPIClientsJava.git</connection>
+		<developerConnection>scm:git:git@github.com:bordar/BorhanGeneratedAPIClientsJava.git</developerConnection>
+		<url>scm:git:git@github.com:bordar/BorhanGeneratedAPIClientsJava.git</url>
 	</scm>
 
 	<!-- Libraries on which the BorhanClient depends -->
